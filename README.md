@@ -3,6 +3,6 @@ just my first repository
 
 Hello world!
 
-This is walzeman, and i am trying to write something into my hello-world repository.
+Hi , everybody! This is walzeman from MUM checking out my first hello world branch test.
 
-thank you
+thank you,
